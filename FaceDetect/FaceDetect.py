@@ -122,4 +122,4 @@ def is_live(frame):
     else:
         return True
 
-# FaceDetection()
+FaceDetection()
