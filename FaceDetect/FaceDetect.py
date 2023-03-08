@@ -78,7 +78,9 @@ def FaceDetection():
     
             # Show the frame
             cv2.imshow('Video', frame)
-            
+            cv2.waitKey(0)
+            pyautogui.click(293, 457)
+            pyautogui.press('q')
             
             print(match)
             
