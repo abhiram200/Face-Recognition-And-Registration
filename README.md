@@ -4,4 +4,4 @@ When a new user comes in front of the camera the system asks them to register th
 And when an already registered user comes in front of the camera the name of the user is displayed.
 
 # Note
-You may need to adjust the value of varianve according to the lighting conditions of the place where the camera is set.
+You may need to adjust the value of variance according to the lighting conditions of the place where the camera is set.
